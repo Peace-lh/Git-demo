@@ -2,8 +2,11 @@ Bayern munich
 Bayern munich
 Bayern munich
 Bayern munich
+<<<<<<< HEAD
 Bayern munich
 Bayern munich
 Bayern munich
 Bayern munich
 
+=======
+>>>>>>> hot
